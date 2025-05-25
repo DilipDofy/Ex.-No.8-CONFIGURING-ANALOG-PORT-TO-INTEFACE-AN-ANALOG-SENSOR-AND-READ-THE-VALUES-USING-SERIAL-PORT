@@ -148,9 +148,12 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ##  Program 
 ```
+
 Name   : DILIP M P
 Reg no : 212223230048
 
+```
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
